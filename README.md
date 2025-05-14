@@ -22,7 +22,9 @@ This document outlines the **common steps involved in designing a scalable, reli
 - Performance (latency, throughput)
 - Scalability (users, data size)
 - Availability, reliability, maintainability
-- Security & compliance
+- Security
+- Compliance
+- License constraints
 
 ---
 
